@@ -41,7 +41,7 @@ with open('rumps/__init__.py') as f:
     version = re.search(r'__version__ = \'(.*?)\'', f.read()).group(1)
 
 setup(
-    name='rumps_with_notifications',
+    name='rumpsWithNotifications',
     version=version,
     description='Ridiculously Uncomplicated MacOS Python Statusbar apps.',
     author='Jared Suttles',
