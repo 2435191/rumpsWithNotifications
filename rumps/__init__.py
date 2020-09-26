@@ -16,7 +16,7 @@ rumps exposes Objective-C classes as Python classes and functions which greatly 
 statusbar application.
 """
 
-__title__ = 'rumps'
+__title__ = 'rumpsWithNotifications'
 __version__ = '0.3.0.dev'
 __author__ = 'Jared Suttles'
 __license__ = 'Modified BSD'
