@@ -1,5 +1,7 @@
 rumps
 =====
+The only thing I changed is commenting out "nsapplication.activateIgnoringOtherApps_(True)  # NSAlerts in front" (Line 1307, so that alerts will work for me). 
+-- 2435191
 
 **R**\ idiculously **U**\ ncomplicated **m**\ acOS **P**\ ython **S**\ tatusbar apps.
 
